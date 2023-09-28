@@ -14,16 +14,11 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -43,6 +38,7 @@
 
 * [![Dart][Dart.dev]][https://dart.dev/]
 * [![Flutter][Flutter.dev]][https://flutter.dev/]
+
 
 Packages:
 * [![easy_splash_screen][Pub.dev]][https://pub.dev/packages/easy_splash_screen]
@@ -84,9 +80,6 @@ Packages:
 
 [![Watch the video](https://img.youtube.com/vi/9S5y73x-GQs/hqdefault.jpg)](https://www.youtube.com/watch?v=9S5y73x-GQs)
 
-[<img src="https://img.youtube.com/vi/9S5y73x-GQs/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/watch?v=9S5y73x-GQs)
-
 
 <img width="339" alt="Screenshot 2023-09-28 at 20 46 45" src="https://github.com/Mjajang/akademie-link/assets/79832998/035a4d8e-9660-4006-9a0d-50cbf6cc3c9d">
 <img width="339" alt="Screenshot 2023-09-28 at 20 47 08" src="https://github.com/Mjajang/akademie-link/assets/79832998/ab97b803-f1c7-4962-ada2-42fc722b199d">
@@ -100,7 +93,7 @@ Packages:
 <!-- CONTACT -->
 ## Contact
 
-Jajang Mahrul - [linkedIn](https://www.linkedin.com/in/jajangmahrul/) - jajangmahrul22@gmail.com
+Jajang Mahrul - [LinkedIn](https://www.linkedin.com/in/jajangmahrul/) - jajangmahrul22@gmail.com
 
 Other Project: [Mjajang](https://github.com/Mjajang)
 
